@@ -1,0 +1,12 @@
+{
+  "templates": [
+        {
+            "name": "osu! logo; Bad Apple!! text; Border;",
+            "sources": [
+                "https://github.com/Doodleman360/pxls/blob/bc98cfed3c4c36e8208265c3941adf8bf6aea8fc/pxArt%20(2).png"
+            ],
+            "x": 648,
+            "y": 672
+        }
+    ]
+}
